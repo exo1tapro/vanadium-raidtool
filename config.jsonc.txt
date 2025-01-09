@@ -1,0 +1,12 @@
+
+{
+    "DEBUG": false, // Made just for me dont use
+    "Proxies": false,  // Most free proxies wont work on discord, remember!
+    "Onliner on func": false, // Token onliner when a module is ran
+    "RPC": true, // Onlined tokens will have a vanadium RPC
+    "Preffer combos": false, // Will prefer to use the combo tokens instead of just tokens (input combos to data/combo_tokens.txt)
+    "More info mode": false, // If the code is diffrent than OK (succes) the log will show the full respone text
+                        
+    "Main acc token": "" // Used for features wthat need high perms like massban/masskick so u can input ur token with these perms by simply putting main inside of the token filed
+}
+    
