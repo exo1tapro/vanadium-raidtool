@@ -11,27 +11,6 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/languages/top/R3CI/Vanadium-Free?style=flat&color=darkred">
-
-  <img src="https://img.shields.io/github/repo-size/R3CI/Vanadium-Free?style=flat&color=darkred">
-
-  <br>
-    
-  <img src="https://img.shields.io/github/last-commit/R3CI/Vanadium-Free?style=flat&color=darkred">
-
-  <img src="https://img.shields.io/github/commit-activity/m/R3CI/Vanadium-Free?style=flat&color=darkred">
-
-
-  <br>
-
-  <img src="https://img.shields.io/github/issues/R3CI/Vanadium-Free?style=flat&color=darkred">
-
-  <img src="https://img.shields.io/github/issues-closed/R3CI/Vanadium-Free?style=flat&color=darkred">
-
-  <br>
-
-  <img src="https://img.shields.io/github/stars/R3CI/Vanadium-Free?style=flat&color=darkred">
-
 </p>
 
 <details>
